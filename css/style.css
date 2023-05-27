@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body{
+    background-color: #96C1D9;
+}
+footer{
+    background-color: #8BACBF;
+}
+#form1{
+    border-radius: 10px;
+}
+.btn-primary{
+    background-color: #4DC4FF;
+    border-color: #4DC4FF;
+    border-radius: 10px;
+}
+i{
+    color: black;
+}
